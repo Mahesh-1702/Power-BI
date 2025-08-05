@@ -1,41 +1,5 @@
 # Power-BI
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Power BI Practice Projects</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      background-color: #f7f7f7;
-      padding: 40px;
-      max-width: 800px;
-      margin: auto;
-      color: #333;
-    }
-    h1, h2 {
-      color: #005f73;
-    }
-    ul {
-      padding-left: 20px;
-    }
-    code {
-      background-color: #eee;
-      padding: 2px 4px;
-      border-radius: 4px;
-      font-family: Consolas, monospace;
-    }
-    a {
-      color: #0077cc;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
-</head>
-<body>
+
 
   <h1>📊 Power BI Learning Repository</h1>
 
