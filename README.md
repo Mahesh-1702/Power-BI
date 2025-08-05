@@ -75,8 +75,6 @@
   <h2>📅 Learning Timeline</h2>
   <p>These Power BI reports were created on <strong>August 4–5, 2025</strong> as part of a self-learning sprint to strengthen my skills in data analytics and reporting.</p>
 
-  <h2>📬 Contact</h2>
-  <p>If you have suggestions or want to connect, feel free to reach out via <a href="mailto:your.email@example.com">email</a> or on <a href="https://www.linkedin.com">LinkedIn</a>.</p>
-
+  
 </body>
 </html>
